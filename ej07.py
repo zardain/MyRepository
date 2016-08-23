@@ -1,0 +1,1 @@
+#Dado un numero ingresado por el usuario, dar la posibilidad al mismo de: generar su sumatoria o su factorial.
